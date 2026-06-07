@@ -1,0 +1,49 @@
+{
+  "usuarios": [
+    {
+      "id": "1",
+      "nome": "Ana Silva",
+      "cargo": "Desenvolvedora Frontend",
+      "cidade": "São Paulo, SP",
+      "ativo": true,
+      "iniciais": "AS",
+      "cor": "#534AB7"
+    },
+    {
+      "id": "2",
+      "nome": "Bruno Costa",
+      "cargo": "Designer UI/UX",
+      "cidade": "Recife, PE",
+      "ativo": true,
+      "iniciais": "BC",
+      "cor": "#E05C5C"
+    },
+    {
+      "id": "3",
+      "nome": "Carla Mendes",
+      "cargo": "Engenheira de QA",
+      "cidade": "João Pessoa, PB",
+      "ativo": false,
+      "iniciais": "CM",
+      "cor": "#2E9E6B"
+    },
+    {
+      "id": "4",
+      "nome": "Diego Rocha",
+      "cargo": "Desenvolvedor Backend",
+      "cidade": "Fortaleza, CE",
+      "ativo": true,
+      "iniciais": "DR",
+      "cor": "#D97E1A"
+    },
+    {
+      "id": "5",
+      "nome": "Elis Santos",
+      "cargo": "Product Manager",
+      "cidade": "Natal, RN",
+      "ativo": false,
+      "iniciais": "ES",
+      "cor": "#8B3CC4"
+    }
+  ]
+}
